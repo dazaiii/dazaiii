@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm detail oriented person with problem-solving skills and strategic thinking. I like to create user friendly and well-designed web pages. I have currently working in Angular and I have 4 years of commercial experience.
+I'm detail oriented person with problem-solving skills and strategic thinking. I like to create user friendly and well-designed web pages. I am currently working in Angular and I have 4 years of commercial experience.
 
 #### Check website about me
 
