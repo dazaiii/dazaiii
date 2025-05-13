@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently I am working as Angular Developer. I have almost 3 years of experience as frontend developer.
+I'm detail oriented person with problem-solving skills and strategic thinking. I like to create user friendly and well-designed web pages. I have currently working in Angular and I have 4 years of commercial experience.
 
 #### Check website about me
 
